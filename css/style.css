@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.verde {
+    background-color: green ;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    }
+
+.amarela {
+    background-color: yellow ;
+    width: 500px;
+    height: 500px;
+    position: relative;
+}
+
+.azul {
+    background-color: blue ;
+    width: 500px;
+    height: 500px;
+    position: fixed;
+    right: 0;
+    top: 0;
+}

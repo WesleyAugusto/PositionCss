@@ -2,26 +2,32 @@
     margin: 0;
     padding: 0;
 }
+.icon{
+width: 60px;
+height: 60px;
+background-color: aquamarine;
+border-radius: 50%;
+position: fixed;
+bottom: 50px;
+right: 50px;
 
-.verde {
-    background-color: green ;
-    width: 500px;
-    height: 500px;
-    position: relative;
-    }
-
-.amarela {
-    background-color: yellow ;
-    width: 500px;
-    height: 500px;
-    position: relative;
 }
+.test1{
+height: 1400px;
+width: 800px;
+background-color: black;
+position: relative;
+border-radius: 2%;
 
-.azul {
-    background-color: blue ;
-    width: 500px;
-    height: 500px;
-    position: fixed;
-    right: 0;
+
+}
+.test2{
+    height: 1400px;
+    width: 800px;
+    background-color: blueviolet;
+    position: relative;
     top: 0;
+    left: 0;
+    border-radius: 2%;
+
 }

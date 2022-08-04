@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: 0;
+
+}
+a{
+text-decoration: none;
+color: aquamarine;
+
+}
+.header{
+    background-color: black;
+    display: flex;
+    justify-content:space-between;
+    height: 60px;
+    align-items: center;
+    padding: 10px 10%;
+}
+@media (max-width: 600px){
+    .header{
+        display: block;
+    }
+}
